@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "About": "Sobre mi",
+    "Portfolio": "Portafolio",
+    "Contact": "Contacto",
+    "English": "Ingles",
+    "Spanish": "Español"
+  },
+  "About": {
+    "title": "Sobre mi",
+    "caption1": "Detalles personales",
+    "caption2": "Habilidades",
+    "desciption": "Soy un desarrollador web full stack, apasionado por el Front-end amante de los diseños simples y modernos, soy una persona autodidacta y siempre que puedo intento aprender nuevas tecnologías. <br>Actualmente, me encuentro haciendo cursos de Udemy, y estoy buscando formar parte de un proyecto que me permita dejar mi marca en la web y me haga crecer profesionalmente."
+  },
+  "contact": {
+    "tell": "Telefono:",
+    "email": "Correo:",
+    "name": "nombre",
+    "desciption": "Soy un desarrollador web full stack, apasionado por el Front-end amante de los diseños simples y modernos, soy una persona autodidacta y siempre que puedo intento aprender nuevas tecnologías. <br>Actualmente, me encuentro haciendo cursos de Udemy, y estoy buscando formar parte de un proyecto que me permita dejar mi marca en la web y me haga crecer profesionalmente."
+  }
+}

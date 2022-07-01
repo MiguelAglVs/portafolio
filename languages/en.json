@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Home",
+    "About": "About me",
+    "Portfolio": "Portfolio",
+    "Contact": "Contact",
+	"English": "English",
+	"Spanish": "Spanish"
+  },
+  "About": {
+    "title": "About me",
+    "caption1": "Personal details",
+    "caption2": "Skills",
+    "desciption": "I am a full stack web developer, passionate about Front-end, I love simple and modern designs, I am a self-taught person and whenever I can I try to learn new technologies.<br> Currently, I am doing Udemy courses, and I am looking to be part of a project that will allow me to leave my mark on the web and make me grow professionally."
+  },
+  "contact": {
+    "tell": "Phone:",
+    "email": "E-mail:"
+  }
+}
