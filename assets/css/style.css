@@ -568,12 +568,6 @@ section .titulo {
 /* -------------------- */
 /* Conracto */
 /* -------------------- */
-.contact .alert{
-  font-size: 2rem;
-  color: var(--primario);
-  border-radius: 0.5rem;
-  padding-left: 1rem;
-}
 
 .box-container{
   display: grid;
